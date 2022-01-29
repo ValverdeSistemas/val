@@ -1,0 +1,38 @@
+[33mcommit f8ac978da642aaf30665a6b42ae22330e6b21c79[m[33m ([m[1;36mHEAD -> [m[1;32mgit-pages[m[33m, [m[1;31morigin/git-pages[m[33m)[m
+Author: ValverdeSistemas <valverdesistemas@gmail.com>
+Date:   Sat Jan 29 14:00:09 2022 -0300
+
+    Herramientas agregadas
+
+[33mcommit f2b467c07a0fb9665cb64709166a4a6d7cde6979[m
+Author: ValverdeSistemas <valverdesistemas@gmail.com>
+Date:   Thu Jan 27 13:15:23 2022 -0300
+
+    Actualizacion de Titulos
+
+[33mcommit 846974ac2be00bd8a691d9defc59014de2761a73[m
+Merge: 2b201bc 285878a
+Author: ValverdeSistemas <valverdesistemas@gmail.com>
+Date:   Thu Jan 27 12:48:05 2022 -0300
+
+    Merge branch 'git-pages' of https://github.com/ValverdeSistemas/val into git-pages
+
+[33mcommit 2b201bce3533fa0127a3a2f6eaf43bd585742c97[m
+Author: ValverdeSistemas <valverdesistemas@gmail.com>
+Date:   Thu Jan 27 11:50:03 2022 -0300
+
+    Titulos e Inicio
+
+[33mcommit 285878a8cff8acec1d5a1c846999beff81199ec9[m[33m ([m[1;32mmain[m[33m)[m
+Author: ValverdeSistemas <valverdesistemas@gmail.com>
+Date:   Thu Jan 27 11:50:03 2022 -0300
+
+    Template inicial
+    
+    html5up.net template solid state
+
+[33mcommit a8167cb947ad259eec019f1e57dc74434cb8c630[m
+Author: ValverdeSistemas <valverdesistemas@gmail.com>
+Date:   Thu Jan 27 11:48:38 2022 -0300
+
+    Initial commit
